@@ -1,0 +1,19 @@
+{
+  "name": "ms-payment-service",
+  "version": "1.0.0",
+  "description": "Microsserviço de pagamentos - CompreFácil",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "express": "^4.18.2",
+    "pg": "^8.11.3",
+    "sequelize": "^6.35.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
