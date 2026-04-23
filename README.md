@@ -1,5 +1,12 @@
 # CompreFácil - Sistema de Pagamentos Distribuído
 
+**Curso:** Superior de Tecnologia em Análise e Desenvolvimento de Sistemas  
+**Unidade Curricular:** Desenvolvimento de Sistemas Móveis e Distribuídos  
+**Docente:** Rafael de Faria Scheidt  
+**Grupo 10:** Michel Angelo da Silva Tuma · Cristian Diego Bozan
+
+---
+
 Desafio 2 - Desenvolvimento de Sistemas Móveis e Distribuídos (SENAI)
 
 Implementação de dois microsserviços independentes que se comunicam de forma assíncrona via RabbitMQ para processar pagamentos e enviar notificações.
