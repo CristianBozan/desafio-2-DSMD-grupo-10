@@ -25,6 +25,3 @@ Thumbs.db
 
 # Docker volumes locais
 postgres_data/
-
-# Claude Code
-.claude/
