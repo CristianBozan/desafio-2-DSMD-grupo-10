@@ -25,3 +25,4 @@ Thumbs.db
 
 # Docker volumes locais
 postgres_data/".claude/" 
+".claude/" 
