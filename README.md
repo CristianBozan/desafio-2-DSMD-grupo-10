@@ -67,8 +67,8 @@ Cliente → POST /payments
 ### 1. Clonar o repositório
 
 ```bash
-git clone <url-do-repositorio>
-cd desafio-2
+git clone https://github.com/CristianBozan/ms-comprefacil-pagamentos.git
+cd ms-comprefacil-pagamentos
 ```
 
 ### 2. Subir todos os serviços
