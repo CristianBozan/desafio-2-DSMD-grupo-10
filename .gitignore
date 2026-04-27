@@ -24,4 +24,4 @@ Thumbs.db
 *.swo
 
 # Docker volumes locais
-postgres_data/
+postgres_data/".claude/" 
